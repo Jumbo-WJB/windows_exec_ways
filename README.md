@@ -7,4 +7,4 @@ mshta(hta) : https://github.com/Jumbo-WJB/CACTUSTORCH
 csc(cs) : https://github.com/Jumbo-WJB/InstallUtil-Shellcode-cs
 
 
-xls:http://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
+xsl:http://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
