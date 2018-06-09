@@ -8,3 +8,5 @@ csc(cs) : https://github.com/Jumbo-WJB/InstallUtil-Shellcode-cs
 
 
 xsl:http://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
+
+msbuild：https://github.com/Jumbo-WJB/nps_payload
