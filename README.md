@@ -7,6 +7,8 @@ mshta(hta) : https://github.com/Jumbo-WJB/CACTUSTORCH
 csc(cs) : https://github.com/Jumbo-WJB/InstallUtil-Shellcode-cs
 
 
-xsl:http://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
+wmic(xsl):http://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
 
-msbuild：https://github.com/Jumbo-WJB/nps_payload
+msbuild(xml)：https://github.com/Jumbo-WJB/nps_payload
+
+winrm.vbs(WsmPty.xsl) : https://posts.specterops.io/application-whitelisting-bypass-and-arbitrary-unsigned-code-execution-technique-in-winrm-vbs-c8c24fb40404
