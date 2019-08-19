@@ -11,3 +11,6 @@ wmic(xsl):http://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacki
 msbuild(xml)：https://github.com/Jumbo-WJB/nps_payload
 
 winrm.vbs(WsmPty.xsl) : https://posts.specterops.io/application-whitelisting-bypass-and-arbitrary-unsigned-code-execution-technique-in-winrm-vbs-c8c24fb40404
+
+
+rundll32.exe(inf) : https://bohops.com/2018/02/26/leveraging-inf-sct-fetch-execute-techniques-for-bypass-evasion-persistence/
